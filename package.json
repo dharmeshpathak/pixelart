@@ -2,7 +2,7 @@
   "name": "pixelart",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://dharmeshpathak.github.io/pixelart",
+  "homepage": "https://dharmeshpathak.github.io/pixels",
 
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.6",
